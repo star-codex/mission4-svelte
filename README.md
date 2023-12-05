@@ -19,7 +19,7 @@ vite
 
 ### Executing program
 
-  ```npm run dev -- --open```
+  ```npm start```
 
 ## Authors
 
