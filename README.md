@@ -1,2 +1,26 @@
-# mission4-svelte
-Rebuild of mission 3 using svelte -- API and database fetches from backend.
+# Mission 4 (Svelte rebuild)
+
+## Description
+
+Rebuilding Mission 3 with Svelte and adding functionality for the API response to pull data from MongoDB for display.
+
+## Getting Started
+
+### Dependencies
+
+@sveltejs/adapter-auto
+@sveltejs/kit
+svelte
+vite
+
+### Installing
+
+  ```npm install```
+
+### Executing program
+
+  ```npm run dev -- --open```
+
+## Authors
+
+Erin Kennedy
